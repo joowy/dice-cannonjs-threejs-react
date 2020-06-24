@@ -14,7 +14,7 @@ View this project in the browser: https://777mlhg.github.io/dice-cannonjs-threej
 
 Drag your mouse to throw the dice.
 
-demo: ![Alt Text](https://github.com/777mlHg/dice-cannonjs-threejs-react/tree/master/public/images/dice_demo.gif)
+demo: ![Alt Text](https://github.com/777mlHg/dice-cannonjs-threejs-react/blob/master/public/images/dice_demo.gif)
 
 ## License
 
