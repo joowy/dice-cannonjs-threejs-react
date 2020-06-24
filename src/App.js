@@ -50,7 +50,7 @@ function Dice({ pos, velocity, angle, axis, setInstructionMessage }) {
       map: loader.load("images/120px-Dicey-1x.png"),
     }),
     new THREE.MeshBasicMaterial({
-      map: loader.load("images/120px-Dicey-2x.png"),
+      map: loader.load("images/120px-Dicey-6x.png"),
     }),
     new THREE.MeshBasicMaterial({
       map: loader.load("images/120px-Dicey-3x.png"),
@@ -62,7 +62,7 @@ function Dice({ pos, velocity, angle, axis, setInstructionMessage }) {
       map: loader.load("images/120px-Dicey-5x.png"),
     }),
     new THREE.MeshBasicMaterial({
-      map: loader.load("images/120px-Dicey-6x.png"),
+      map: loader.load("images/120px-Dicey-2x.png"),
     }),
   ];
   useEffect(
