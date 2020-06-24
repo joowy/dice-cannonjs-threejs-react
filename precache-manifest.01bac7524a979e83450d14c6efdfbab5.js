@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61fb6f629015464938f193a1c1749ba3",
+    "revision": "c800df189fe2901eebb2673f8343b971",
     "url": "/dice-cannonjs-threejs-react/index.html"
   },
   {
-    "revision": "9783cd19aa5dc1846353",
+    "revision": "d7a2e838d4e731fea468",
     "url": "/dice-cannonjs-threejs-react/static/css/main.07547fd2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dice-cannonjs-threejs-react/static/js/3.2d70f6c5.chunk.js"
   },
   {
-    "revision": "9783cd19aa5dc1846353",
-    "url": "/dice-cannonjs-threejs-react/static/js/main.0015f4fe.chunk.js"
+    "revision": "d7a2e838d4e731fea468",
+    "url": "/dice-cannonjs-threejs-react/static/js/main.e5f297c9.chunk.js"
   },
   {
     "revision": "ba973e6e5d495546e0b0",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dice-cannonjs-threejs-react/precache-manifest.a9974e499192bad505ed078007239825.js"
+  "/dice-cannonjs-threejs-react/precache-manifest.01bac7524a979e83450d14c6efdfbab5.js"
 );
 
 self.addEventListener('message', (event) => {
