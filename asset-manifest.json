@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/777mlHg/dice-cannonjs-threejs-react/static/css/main.07547fd2.chunk.css",
+    "main.js": "/777mlHg/dice-cannonjs-threejs-react/static/js/main.f5e84023.chunk.js",
+    "main.js.map": "/777mlHg/dice-cannonjs-threejs-react/static/js/main.f5e84023.chunk.js.map",
+    "runtime-main.js": "/777mlHg/dice-cannonjs-threejs-react/static/js/runtime-main.f989964e.js",
+    "runtime-main.js.map": "/777mlHg/dice-cannonjs-threejs-react/static/js/runtime-main.f989964e.js.map",
+    "static/js/2.0971162d.chunk.js": "/777mlHg/dice-cannonjs-threejs-react/static/js/2.0971162d.chunk.js",
+    "static/js/2.0971162d.chunk.js.map": "/777mlHg/dice-cannonjs-threejs-react/static/js/2.0971162d.chunk.js.map",
+    "static/js/3.e41e7312.chunk.js": "/777mlHg/dice-cannonjs-threejs-react/static/js/3.e41e7312.chunk.js",
+    "static/js/3.e41e7312.chunk.js.map": "/777mlHg/dice-cannonjs-threejs-react/static/js/3.e41e7312.chunk.js.map",
+    "index.html": "/777mlHg/dice-cannonjs-threejs-react/index.html",
+    "precache-manifest.90a6e9c173822752c0c7ad3eb9cb0c36.js": "/777mlHg/dice-cannonjs-threejs-react/precache-manifest.90a6e9c173822752c0c7ad3eb9cb0c36.js",
+    "service-worker.js": "/777mlHg/dice-cannonjs-threejs-react/service-worker.js",
+    "static/css/main.07547fd2.chunk.css.map": "/777mlHg/dice-cannonjs-threejs-react/static/css/main.07547fd2.chunk.css.map",
+    "static/js/2.0971162d.chunk.js.LICENSE.txt": "/777mlHg/dice-cannonjs-threejs-react/static/js/2.0971162d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f989964e.js",
+    "static/js/2.0971162d.chunk.js",
+    "static/css/main.07547fd2.chunk.css",
+    "static/js/main.f5e84023.chunk.js"
+  ]
+}
