@@ -4,7 +4,7 @@ A physics based 3D dice roller. Built using threejs and cannonjs.
 
 ## Installation
 
-View this project in the browser: https://777mlhg.github.io/dice-cannonjs-threejs-react/
+View this project in the browser: https://joowy.github.io/dice-cannonjs-threejs-react/
 
 - Clone this repo
 - `npm install` to install all dependencies
