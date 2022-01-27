@@ -12,7 +12,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "react-three-fiber": "^4.2.10",
-    "three": "^0.125.0",
+    "three": "^0.137.0",
     "use-cannon": "^0.4.8"
   },
   "homepage": "https://777mlhg.github.io/dice-cannonjs-threejs-react/",
